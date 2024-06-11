@@ -57,9 +57,9 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subha-hu" alt="subha-hu"/></a> </p>
  <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subha-hu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="pramodjena"/>
- <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=subha-hu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="pramodjena" /></p> 
- <a href="https://github.com/pramodjena/github-readme-stats">
- <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=pramodjena&&theme=highcontrast" alt="subha-hu" />
+ <img align="left" width="600" src="https://github-readme-stats.vercel.app/api?username=subha-hu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="subha-hu" /></p> 
+ <a href="https://github.com/subha-hu/github-readme-stats">
+ <img align="left" width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=subha-hu&&theme=highcontrast" alt="subha-hu" />
  </a>
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
